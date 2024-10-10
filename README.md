@@ -11,3 +11,7 @@ Utilized Google Places API for fetching real-time data on bar details and review
 
 Planning on adding more features on this app soon!
 
+https://github.com/jonchavezhub123/Nightlife-App/blob/main/IMG_7377.PNG
+
+![How my app looks like for a zoomed out for Chicago](https://github.com/jonchavezhub123/Nightlife-App/blob/main/IMG_7377.PNG)
+
