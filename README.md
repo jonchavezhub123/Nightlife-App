@@ -19,5 +19,7 @@ How my app looks like for a zoomed out for Chicago
 <img src="https://github.com/jonchavezhub123/Nightlife-App/blob/main/IMG_7386.PNG" alt="Zoomed in" width="200"/>
 How it looks when zoomed in to a location. 
 
+<img src="https://github.com/jonchavezhub123/Nightlife-App/blob/main/IMG_7387.PNG" alt="Zoomed in" width="200"/>
+When tapping on a location
 
 
