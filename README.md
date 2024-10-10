@@ -8,3 +8,6 @@ Implemented an interactive map that displays heatspots for each bar based on cus
 Enabled users to click on bar icons to view detailed information about each location, such as hours of operation and ratings.
 
 Utilized Google Places API for fetching real-time data on bar details and reviews.
+
+Planning on adding more features on this app soon!
+
