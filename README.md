@@ -1,13 +1,24 @@
 # Nightlife-App
 Nightlife Companion App (iOS)
 
-Developed an iOS application using Swift and SwiftUI that enhances the nightlife experience by displaying real-time data for bars and clubs.
+This iOS application is designed to enhance nightlife exploration by providing users with a dynamic, real-time map of bars and clubs. The app uses a heat map to highlight popular spots based on user reviews and ratings, only displaying locations that are currently open. Each bar icon is clickable, providing detailed information such as ratings, reviews, and operating status.
 
-Implemented an interactive map that displays heatspots for each bar based on customer reviews, ratings, and open status.
+Key Features:
 
-Enabled users to click on bar icons to view detailed information about each location, such as hours of operation and ratings.
+* Heat Map Visualization: Displays a heatmap of bars and clubs based on user ratings and total number of reviews. The intensity of the heat map increases with popularity, helping users easily identify the most popular spots in real-time.
 
-Utilized Google Places API for fetching real-time data on bar details and reviews.
+* Open Bar Filtering: Only shows bars and clubs that are currently open, ensuring users are directed to locations they can visit immediately.
+  
+* Interactive Map: Includes zoomable annotations with bar names. The labels automatically appear when the map is zoomed in to a specified level, making it easier to locate specific bars.
+  
+* Bar Details: Each bar's icon is clickable, displaying information such as its name, rating, total reviews, and whether it is open.
+Custom Annotations: The app features custom annotations that provide a visual indication of each bar’s popularity, ensuring a user-friendly experience.
+
+Technology Stack:
+
+* Frontend: SwiftUI, UIKit (for custom map rendering).
+* Mapping: MapKit for rendering map views and CoreLocation for location services.
+* Heatmap Rendering: Custom heat map overlay based on bar popularity, calculated from user reviews and ratings.
 
 Planning on adding more features on this app soon!
 
